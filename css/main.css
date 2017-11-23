@@ -12,6 +12,11 @@ header {
   /* font-family: 'Lato', sans-serif; */
 }
 
+hr{
+  color: #c4c9ce;
+  width: 55%;
+}
+
 #seccion1 {
   background-color: #18bc9c;
   padding: 70px;
@@ -99,6 +104,21 @@ header {
   margin-top: -33px;
 }
 
+#seccion4 {
+  margin-top: 100px;
+}
+
+#seccion4 .data h3 {
+  color: #86aad7;
+  margin-left: 319px;
+  margin-top: 55px;
+  font-size: 23px;
+}
+
+#seccion4 .data {
+
+}
+
 .float-left {
   float: left;
   margin: -15px 85px;
@@ -147,4 +167,32 @@ header {
 
 .align {
   padding: 5px 15px 15px 15px;
+}
+
+.paragraph {
+  display: inline-block;
+  text-align: left;
+  margin-left: 262px;
+  font-size: 20px;
+  margin-top: 24;
+}
+
+.paragraph1 {
+  display: inline-block;
+  text-align: left;
+  margin-left: 38px;
+  font-size: 20px;
+  margin: 26px;
+  line-height: 154%
+}
+
+.bottom {
+  text-align: center;
+  border: 2px solid white;
+  width: 200px;
+  height: 35px;
+  margin-left: 510px;
+  border-radius: 6px;
+  font-size: 20px;
+  margin-top: 20px;
 }
