@@ -18,6 +18,11 @@ footer {
   color: white;
 }
 
+hr{
+  color: #c4c9ce;
+  width: 55%;
+}
+
 #seccion1 {
   background-color: #18bc9c;
   padding: 70px;
@@ -132,6 +137,21 @@ footer {
 #seccion4 {
   margin-top: 87px;
   margin-bottom: 110px;
+}
+
+#seccion4 {
+  margin-top: 100px;
+}
+
+#seccion4 .data h3 {
+  color: #86aad7;
+  margin-left: 319px;
+  margin-top: 55px;
+  font-size: 23px;
+}
+
+#seccion4 .data {
+
 }
 
 .float-left {
